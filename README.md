@@ -2,7 +2,7 @@
 
 ## How to get SSH Key
 
-Step 1: In terminal do, ssh-keygen -t ed25519 -C "your_github_email@example.com" 
+Step 1: In terminal do, ssh-keygen -t ed25519 -C "your_github_email@example.com" </n>
 Step 2: > Enter a file in which to save the key (/Users/YOU/.ssh/id_ALGORITHM): [Press enter]
 Step 3: Enter passphrase (empty for no passphrase): [Type a passphrase] &        
         RE-Enter same passphrase again: [Type passphrase again]
