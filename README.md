@@ -10,7 +10,9 @@ Step 4: Key generated <br>
 
 ### Be careful key and key.pub are different. Public Key (.pub) is the one we keep in github or anyother public place.
 <br>
-## How to add SSH key to ssh agent<br>
+
+## How to add SSH key to ssh agent
+<br>
 
 Step 1: In terminal do, eval "$(ssh-agent -s)" (Agent pid appears)<br>
 Step 2: ssh-add -K ~/.ssh/id_ed25519 (for mac) & ssh -add ~/.ssh/id_ed25519 (for win)<br>
